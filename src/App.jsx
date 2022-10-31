@@ -7,11 +7,11 @@ function App() {
   const game = [
     { word: 'apple', url: '/src/assets/apple.jpg' },
     { word: 'banana', url: '/src/assets/banana.jpg' },
-    { word: 'car', url: '/src/assets/car.jfif' },
-    { word: 'aircraft', url: '/src/assets/aircraft.jpg' },
-    { word: 'bread', url: '/src/assets/bread.jfif' },
-    { word: 'solider', url: '/src/assets/solider.jpg' },
-    { word: 'helicopter', url: '/src/assets/helicopter.jpg' }
+    { word: 'pear', url: '/src/assets/pear.jpg' },
+    { word: 'lemon', url: '/src/assets/lemon.jpg' },
+    { word: 'grapes', url: '/src/assets/grapes.jpg' },
+    { word: 'kiwi', url: '/src/assets/kiwi.jpg' },
+    { word: 'watermelon', url: '/src/assets/watermelon.jfif' }
   ];
 
   const [input, setInput] = useState('');
