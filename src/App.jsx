@@ -78,7 +78,7 @@ function App() {
     <div className="App">
       <div className="min-h-screen bg-slate-800 text-white text-center">
         <header className="p-6 mb-8">
-          <h1 className="text-2xl font-bold uppercase">Game write what kind of object</h1>
+          <h1 className="text-2xl font-bold uppercase">Game write which fruit</h1>
           <div>
             <p>Received = {streak}</p>
             <p>Maximum = {maxStreak}</p>
